@@ -1,0 +1,28 @@
+name: "Mister Beever's"
+favicon: null
+layout_spectrum: 0.1185916920658201
+typography_spectrum: 0.034367032116279006
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9443912114948034
+  lightness: 0.6966249472461641
+  saturation: 0.6874701401684433
+  rhythmicContrast: 0.3240905108395964
+purpose: []
